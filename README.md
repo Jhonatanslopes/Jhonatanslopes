@@ -6,7 +6,6 @@ I believe that with technology we can change the world!
 
 - 👀 currently, studying machine learning and AI applications. 
 - Techs & Tools: Python, Java, SQL, Power Bi.
-- Learning: Airflow, Machine Learnig, A.I.
 - 📫 How to reach me: Email: jhonatans.ti@icloud.com | Linkedin: https://bit.ly/Jhonatans
 
 <!---
