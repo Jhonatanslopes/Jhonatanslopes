@@ -1,11 +1,13 @@
 Hi 👋
 
-My name is Jhonatans Lopes. I am studying data 
+My name is Jhonatans Lopes. I am studying data science.
 
-- 👀 I’m interested in Python, Machine Learning, AWS, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I believe that with technology we can change the world!
+
+- 👀 currently, studying machine learning and AI applications. 
+- Techs & Tools: Python, Java, SQL, Power Bi.
+- Learning: Airflow, Machine Learnig, A.I.
+- 📫 How to reach me: Email: jhonatans.ti@icloud.com | Linkedin: https://bit.ly/Jhonatans
 
 <!---
 Jhonatanslopes/Jhonatanslopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
