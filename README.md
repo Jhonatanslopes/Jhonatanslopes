@@ -1,4 +1,6 @@
-Hi 👋
+<p align="center">
+  <img src="https://github.com/jhonatanslopes/jhonatanslopes/raw/main/assets/header-github.gif" alt="Oi, seu o Jhonatans">
+</p>
 
 My name is Jhonatans Lopes. I am studying data science.
 
