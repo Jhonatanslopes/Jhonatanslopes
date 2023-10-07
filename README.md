@@ -1,26 +1,17 @@
-<p align="center">
-  <img src="https://github.com/jhonatanslopes/jhonatanslopes/raw/main/assets/header_github.gif" alt="Oi, seu o Jhonatans">
+<p>
+  Hi there!
+  i am a Data Analyst/Data Scientist with +1 year of professional experience. Currently working for one of the largest banks in the world. 
+</p>
+<p>
+    I have a Bachelor’s Degree in Computer Science and experience in the development of data projects through Analysis, Machine Learning, and Statistics techniques to solve business problems.
+</p>
+<p>
+  I worked in Logistics, Energy, and finally Banking/Finance sectors, and throughout my journey, I developed technical skills in SQL, Python, PySpark, Power BI, Google Data Studio, Git, GitHub, Flak API,
+  Deployment, Machine Learning techniques (Classification, Regression, Clustering, Time Series), MySQL, PostgreSQL, SQL Server, SQLite, Google Big Query, SAS, Web Scraping and Exploratory Data Analysis.
 </p>
 
-
-<p>sobre_mim = {<br>
-  <br>
-            '<b>tecnologias'</b>: ['Python', 'Java', 'SQL', 'Power BI', 'Estatistica', 'Machine Learning'],<br>
-            '<b>estudando</b>': ['Aplicacoes de AI', 'Docker', 'Airflow', 'Data Science'],<br>
-            '<b>frase_legal</b>': ['Eu acredito que com a tecnologia nós podemos mudar o mundo'],<br>
-            '<b>linkedin</b>':  'https://bit.ly/Jhonatans',<br>
-            '<b>email'</b>: 'jhonatans.ti@icloud.com'<br>
-  <br>
-}</p>
-
-:smiley:  Caso queira me conhecer melhor, confira: https://jhonatanslopes.github.io/Portfolio/
-
-:mailbox_with_mail: Sinta-se a vontade para entrar em contato.
+<p>
+  connect with me on Linkedin:
+</p>
 
 [![Website perso.crans.org](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/Jhonatans)
-[![Website perso.crans.org](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jhonatans.ti@icloud.com)
-
-<!---
-Jhonatanslopes/Jhonatanslopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
